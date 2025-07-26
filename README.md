@@ -1,2 +1,2 @@
 # AI-ML
-This repository contains implementations of artificial intelligence and machine learning
+This repository documents my learnings throughout my journey in artificial intelligence and machine learning (AI/ML).
